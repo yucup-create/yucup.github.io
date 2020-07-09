@@ -31,5 +31,7 @@
     .login {
         padding: 0 70px;
     }
+    span {
+        display:none;}
 }
 
